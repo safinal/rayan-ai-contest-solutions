@@ -1,0 +1,9 @@
+[submodule "backdoored-model-detection"]
+	path = backdoored-model-detection
+	url = https://github.com/safinal/backdoored-model-detection.git
+[submodule "zeroshot-anomaly-detection"]
+	path = zeroshot-anomaly-detection
+	url = https://github.com/safinal/zeroshot-anomaly-detection.git
+[submodule "compositional-image-retrieval"]
+	path = compositional-image-retrieval
+	url = https://github.com/safinal/compositional-image-retrieval.git
