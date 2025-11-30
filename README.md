@@ -10,7 +10,7 @@ This repository serves as the entry point for our solutions to three distinct ma
 * **Performance:** 95.38% Accuracy.
 * **Repository:** [compositional-image-retrieval](https://github.com/safinal/compositional-image-retrieval)
 
-### 🔍 Q6: Zero-Shot Anomaly Detection (2nd Place)
+### 🔍 Q6: Zero-Shot Anomaly Detection (1st Place)
 * **Objective:** Detect and localize anomalies in industrial and medical images without prior exposure to abnormal examples (Zero-Shot setting).
 * **Approach:** We adopted the **MuSc framework** (Mutual Scoring of unlabeled images) combined with a custom post-processing masking strategy to handle background noise in industrial datasets.
 * **Performance:** 73.14% Accuracy.
