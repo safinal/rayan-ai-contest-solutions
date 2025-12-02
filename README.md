@@ -39,4 +39,4 @@ This repository serves as the entry point for our solutions to three distinct ma
 
 
 ## 📄 Technical Report
-For a detailed explanation of our methodologies, experiments, and results, please refer to our full [Technical Report](./Technical_Report.pdf).
+For a detailed explanation of our methodologies, experiments, and results, please refer to our full [Technical Report](https://arxiv.org/abs/2512.01498).
